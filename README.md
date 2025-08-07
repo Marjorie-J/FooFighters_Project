@@ -26,6 +26,22 @@ pip install -r requirements.txt
 ```
 
 
+## Configuration des variables d'environnement
+
+1. Créer un fichier `secret.sh` à la racine du projet
+
+```bash
+export SPOTIFY_CLIENT_ID="votre-client-id"
+export SPOTIFY_CLIENT_SECRET="votre-client-secret"
+```
+
+2. Charger les variables d'environnement
+
+```bash
+source secret.sh
+```
+
+
 ## Structure du Repository
 
 ```
