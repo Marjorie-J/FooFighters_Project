@@ -1,6 +1,9 @@
-# Spotify_Project
+# FooFighters_Project
 
-Ce repository contient mon projet Spotify ....
+L’évolution du style musical des Foo Fighters
+
+Objectif :
+Étudier l’évolution musicale des Foo Fighters à travers le temps en analysant les audio features fournies par Spotify.
 
 
 ## Installation
@@ -8,15 +11,15 @@ Ce repository contient mon projet Spotify ....
 1. Cloner le repository
 
 ```bash
-git clone https://github.com/Marjorie-J/Spotify_Project.git
-cd Spotify_Project
+git clone https://github.com/Marjorie-J/FooFighters_Project.git
+cd FooFighters_Project
 ```
 
 2. Créer un environnement
 
 ```bash
-python -m venv spotify_env
-source spotify_env/bin/activate
+python -m venv ff_env
+source ff_env/bin/activate
 ```
 
 3. Installer les dépendances
@@ -46,7 +49,7 @@ source secret.sh
 
 ```
 .
-└── Spotify_Project/
+└── FooFighters_Project/
     ├── datas/
     ├── src/
     ├── .gitignore
