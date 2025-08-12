@@ -5,6 +5,8 @@ L’évolution du style musical des Foo Fighters
 Objectif :
 Étudier l’évolution musicale des Foo Fighters à travers le temps en analysant les audio features fournies par Spotify.
 
+UPDATE : L'API Spotify est Deprecated.
+
 
 ## Installation
 
